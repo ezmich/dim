@@ -1,0 +1,86 @@
+// Buzzard (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=927835311&perks=4090651448,1885400500,3643424744,3891536761
+
+// High Albedo (PvE)
+//notes:PvE-
+dimwishlist:item=1197486957&perks=4090651448,106909392,3436462433,3592538738
+
+// Senuna SI6 (PvE)
+//notes:PvE-
+dimwishlist:item=5159537&perks=839105230,1885400500,2779035018,124408337
+
+// Peacebond (PvE)
+//notes:PvE-
+dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,124408337
+
+// Liminal Vigil (PvE)
+//notes:PvE-
+dimwishlist:item=3138208275&perks=4090651448,1885400500,124408337,3047969693
+
+// Arctic Haze (PvE)
+//notes:PvE-
+dimwishlist:item=20935540&perks=839105230,3142289711,1820235745,1546637391
+
+// Reckless Oracle (PvE)
+//notes:PvE-
+dimwishlist:item=3385326721&perks=839105230,1885400500,1168162263,4082225868
+
+// The Last Breath (PvE)
+//notes:PvE-
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903
+
+// Biting Winds (PvE)
+//notes:PvE-
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+
+// Accrued Redemption (PvE)
+//notes:PvE-
+dimwishlist:item=4095896073&perks=2801223209,16392701,201365942,3365897133
+
+// Strident Whistle (PvE)
+//notes:PvE-
+dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,3365897133
+dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123
+
+// Zealot's Reward (PvE)
+//notes:PvE-
+dimwishlist:item=2209003210&perks=4090651448,1687452232,1645158859,2213355989
+
+// The Hothead (PvE)
+//notes:PvE-
+dimwishlist:item=4255171531&perks=1478423395,3796465595,3523296417,3194351027
+
+// Hezen Vengeance (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=1921159786&perks=1478423395,2985827016,3300816228,1546637391
+
+// Chattering Bone (PvE)
+//notes:PvE-
+dimwishlist:item=568515759&perks=4090651448,1885400500,2846385770,460017080
+
+// Sacred Provenance (PvE)
+//notes:PvE-
+dimwishlist:item=2408405461&perks=839105230,1885400500,2846385770,460017080
+
+// Terminus Horizon (PvE)
+//notes:PvE-
+dimwishlist:item=487205709&perks=839105230,2420895100,3400784728,365154968
+dimwishlist:item=487205709&perks=839105230,1885400500,247725512,2173046394
+
+// Thermal Erosion (PvE)
+//notes:PvE-
+dimwishlist:item=1766088024&perks=839105230,1087426260,2869569095,3592538738
+
+// Stormchaser (PvE)
+//notes:PvE-
+dimwishlist:item=3652506829&perks=839105230,1687452232,2284787283,1771339417
+
+// Unforgiven (PvE)
+//notes:PvE-
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,776531651
+
+// Lingering Dread (PvE)
+//notes:PvE-
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
+
